@@ -1,8 +1,8 @@
 # Arif Ahmad Khan
 
-**AI Systems Engineer | Multi-Agent Systems & Edge Perception**  
-Founder & Lead AI Engineer at [AgentCraft AI Automations](https://agentcraftai.vercel.app/) &bull; B.S. in Software Engineering (CGPA: 3.65 / 4.00)  
-[Portfolio](https://arifahmad.is-a.dev/) &bull; [AgentCraft AI](https://agentcraftai.vercel.app/) &bull; [LinkedIn](https://linkedin.com/in/ahmadarif238) &bull; [Email](mailto:ahmadarif238@gmail.com)
+**AI Systems Engineer | Autonomous AI Agents, LangGraph, RAG Architectures & FastAPI**  
+Co-Founder & Lead AI Engineer at [AgentCraft AI Automations](https://agentcraftai.vercel.app/) &bull; B.S. in Software Engineering (CGPA: 3.65 / 4.00)  
+[Portfolio](https://arifahmad.is-a.dev/) &bull; [AgentCraft AI](https://agentcraftai.vercel.app/) &bull; [LinkedIn](https://www.linkedin.com/in/arif-ahmad-k-0b853580/) &bull; [Email](mailto:ahmadarif238@gmail.com)
 
 ---
 
