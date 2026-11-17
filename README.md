@@ -1,25 +1,26 @@
 # Arif Ahmad Khan
 
-**AI Systems Engineer & Prospective PhD Researcher**  
+**AI Systems Engineer | Multi-Agent Systems & Edge Perception**  
+Founder & Lead AI Engineer at [AgentCraft AI Automations](https://agentcraftai.vercel.app/) &bull; B.S. in Software Engineering (CGPA: 3.65 / 4.00)  
 [Portfolio](https://arifahmad.is-a.dev/) &bull; [AgentCraft AI](https://agentcraftai.vercel.app/) &bull; [LinkedIn](https://linkedin.com/in/ahmadarif238) &bull; [Email](mailto:ahmadarif238@gmail.com)
 
 ---
 
-### Research & Engineering Overview
+### Engineering & Systems Overview
 
-I develop collaborative multi-agent architectures and low-latency computer vision pipelines optimized for real-time edge execution. My work addresses two complementary challenges:
+I engineer collaborative multi-agent architectures and low-latency computer vision pipelines optimized for real-time edge execution. My work spans two primary computational domains:
 
-1. **Stateful Multi-Agent Reasoning and Teaming:** Designing cyclic, state-preserving agent workflows in LangGraph with formal constraint enforcement (Linear Programming via PuLP), structured validation layers (Pydantic), and deterministic factual grounding.
-2. **Efficient Edge Perception and Assistive Computing:** Quantizing deep perceptual models (Depth Anything V2, YOLO) into OpenVINO Intermediate Representation and ONNX formats to deliver sub-second multimodal scene parsing on consumer hardware.
+1. **Stateful Multi-Agent Reasoning and Teaming:** Designing cyclic, state-preserving agent workflows in LangGraph with formal constraint enforcement (Linear Programming via PuLP), structured schema validation (Pydantic), and deterministic factual grounding.
+2. **Efficient Edge Perception and Assistive Computing:** Quantizing deep perceptual models (Depth Anything V2, YOLO) into Intel OpenVINO Intermediate Representation and ONNX formats to deliver sub-second multimodal scene parsing on consumer hardware.
 
-I completed my Bachelor of Science in Software Engineering with a 3.65 / 4.00 CGPA, supported by coursework in Linear Algebra (90%), Discrete Structures (89%), Formal Methods (83%), Stochastic Processes (81%), and Operations Research (80%).
+Graduate applicant in Computer Science with a focus on collaborative autonomous systems, human-centered computing, and efficient machine perception.
 
 ---
 
-### Core Research Themes
+### Technical & Research Focus Areas
 
-* **Human-Agent Interaction and Assistive Decision Support:** Developing calm, non-intrusive auditory and multimodal feedback systems for users operating under high cognitive load or sensory impairment.
-* **Sequential Decision-Making Under Uncertainty:** Combining probabilistic heuristics, mathematical programming, and large foundation models to coordinate multi-agent consensus.
+* **Human-Agent Interaction & Assistive Decision Support:** Developing calm, non-intrusive auditory and multimodal feedback systems for users navigating complex or sensory-impaired environments.
+* **Sequential Decision-Making & Constrained Optimization:** Coupling probabilistic heuristics, mathematical programming (PuLP linear solvers), and foundation models for multi-agent coordination.
 * **Efficient Edge Inference:** Model compression, INT8/FP16 quantization, and asynchronous streaming pipelines over WebSockets for high-throughput perception.
 * **Verifiable Compound AI Systems:** Grounding LLM generation in external relational databases and dense vector representations with closed-loop error correction.
 
@@ -33,8 +34,8 @@ I completed my Bachelor of Science in Software Engineering with a 3.65 / 4.00 CG
 | **[ContractIQ](https://github.com/ahmadarif238/contract-iq)** | Multi-Agent Legal Intelligence | Stateful LangGraph workflow for clause extraction, risk benchmarking, and citation-enforced retrieval over Pinecone vector indexes. | [Repository](https://github.com/ahmadarif238/contract-iq) |
 | **[Smart Supply Chain Agent](https://github.com/ahmadarif238/Smart-SupplyChain-Agent)** | Autonomous Optimization | Hybrid architecture coupling LangGraph cyclic negotiation nodes with PuLP Linear Programming solvers for budget-constrained order balancing. | [Repository](https://github.com/ahmadarif238/Smart-SupplyChain-Agent) |
 | **[Retail Analytics Agent](https://github.com/ahmadarif238/retail-analytics-agent)** | Compound AI & Self-Healing | Seven-node LangGraph pipeline with DSPy-optimized intent routing (+11% accuracy gain) and a two-turn self-healing SQL repair loop. | [Repository](https://github.com/ahmadarif238/retail-analytics-agent) |
-| **[VivaGraph AI](https://github.com/ahmadarif238/vivagraph-ai)** | Multimodal Evaluation | Interactive oral defense simulator with dynamic stress-testing personas, speech hesitation tracking, and real-time retrieval-grounded questioning. | [Repository](https://github.com/ahmadarif238/vivagraph-ai) |
-| **[AI Sales Automation Pipeline](https://github.com/ahmadarif238/AI-Sales-Automation-Agent)** | Autonomous B2B Workflows | Six-agent deterministic pipeline coordinating search extraction, email enrichment, ICP scoring, and stateful lead progression. | [Repository](https://github.com/ahmadarif238/AI-Sales-Automation-Agent) |
+| **[VivaGraph AI](https://github.com/ahmadarif238/vivagraph-ai)** | Multimodal Evaluation | Interactive oral defense simulator with dynamic questioning personas, speech hesitation tracking, and real-time retrieval-grounded validation. | [Repository](https://github.com/ahmadarif238/vivagraph-ai) |
+| **[AgentCraft AI Automations](https://github.com/ahmadarif238/AgentCraft-AI-Automations)** | Production Agent Platform | Full-stack platform showcasing enterprise multi-agent workflows, verifiable document intelligence, and interactive Three.js visualizers. | [Repository](https://github.com/ahmadarif238/AgentCraft-AI-Automations) |
 
 ---
 
@@ -59,8 +60,8 @@ I completed my Bachelor of Science in Software Engineering with a 3.65 / 4.00 CG
 
 ---
 
-### Contact & Collaboration
+### Contact & Organizations
 
 * **Email:** [ahmadarif238@gmail.com](mailto:ahmadarif238@gmail.com)
 * **Web:** [arifahmad.is-a.dev](https://arifahmad.is-a.dev/)
-* **Organization:** Founder & Lead AI Engineer at [AgentCraft AI Automations](https://agentcraftai.vercel.app/)
+* **Platform:** Founder & Lead AI Engineer at [AgentCraft AI Automations](https://agentcraftai.vercel.app/)
